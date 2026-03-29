@@ -4,7 +4,7 @@ Second iteration of the food ordering app, rebuilt as a React SPA with TypeScrip
 
 How to run:
 
-git clone https://github.com/your-repo/come-by.git
+git clone https://github.com/BlackMfgik/Come-by-shope-fron-V2.git
 
 cd come-by
 
