@@ -15,6 +15,4 @@ npm install
 Create a `.env` file:
 ```
 
-VITE_API_URL=https://your-backend-url
-
 npm run dev
